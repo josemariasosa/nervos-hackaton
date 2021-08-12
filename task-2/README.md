@@ -2,11 +2,6 @@
 
 1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
 
-```txt
-Transaction hash: 0x51b52fb537e05973b57863cc00b1f7ec1449ab31b7cde31f4710a8e383e742f7
-Deployed contract address: 0x8A115bd8eA6DAf1841Fab8f45409D03cA17b7C7f
-```
-
 ![Deployed contract](/media/task_2_1.jpg)
 
 
