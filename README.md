@@ -9,3 +9,4 @@ List of submitted tasks:
 - [Task 2. Deploy a Simple Ethereum Smart Contract on Polyjuice](/task-2/README.md)
 - [Task 3. Issue a Smart Contract Call to the Deployed Smart Contract](/task-3/README.md)
 - [Task 4. Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](/task-4/README.md)
+- [Task 5. Deploy the ERC20 Proxy Contract for the Deposited SUDT](/task-5/README.md)
