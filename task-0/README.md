@@ -8,3 +8,10 @@
 2. Setup a local CKB Indexer, and allow it to fully synchronize with the local CKB Node.
 
 ![Local CKB Indexer](/media/task_0_2.jpg)
+
+
+## Reference
+
+1. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/conceptual-explainers/tooling.md
+2. https://gitcoin.co/issue/nervosnetwork/grants/1/100026176
+3. https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md

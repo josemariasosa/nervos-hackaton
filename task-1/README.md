@@ -21,3 +21,15 @@ link: https://explorer.nervos.org/aggron/address/ckt1qyqyrl6xm0xrhlytp5lfl95tznu
 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
 
 ![Account](/media/task_1_3.jpg)
+
+
+# Reference
+
+1. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/component-tutorials/1.setup.account.in.ckb.cli.md
+2. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/component-tutorials/4.layer2.deposit.md
+3. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/conceptual-explainers/structure.md
+4. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/conceptual-explainers/frameworks.md
+5. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/conceptual-explainers/infrastructure.md
+6. https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/component-tutorials/3.setup.and.use.account.cli.md
+7. https://faucet.nervos.org/
+8. https://explorer.nervos.org/aggron/address/ckt1qyqyrl6xm0xrhlytp5lfl95tznutsxkqd96sp9c992
